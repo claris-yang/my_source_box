@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -march=native -O3 -pthread -g   CMakeFiles/cplusplus.dir/main.cpp.o CMakeFiles/cplusplus.dir/file1.cpp.o CMakeFiles/cplusplus.dir/stock.cpp.o CMakeFiles/cplusplus.dir/account.cpp.o CMakeFiles/cplusplus.dir/student.cpp.o CMakeFiles/cplusplus.dir/tercher.cpp.o CMakeFiles/cplusplus.dir/TableTennisPlayer.cpp.o  -o cplusplus 

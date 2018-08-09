@@ -1,0 +1,4 @@
+POST
+test.ad.xiaomi.com
+/post/v3
+appKey=GAME&clientInfo=%7B%22deviceInfo%22%3A%7B%22model%22%3A%22MI+3%22%2C%22miuiVersion%22%3A%224.7.1%22%2C%22androidVersion%22%3A%2216%22%2C%22screenDensity%22%3A%22320%22%2C%22screenWidth%22%3A720%2C%22screenHeight%22%3A1280%2C%22marketVersionCode%22%3A0%2C%22isInter%22%3Afalse%2C%22devicetype%22%3A0%7D%2C%22userInfo%22%3A%7B%22imei%22%3A%2271ac0b8ad739b0e1f7447234ad1847d2%22%2C%22userid%22%3A%221111%22%2C%22language%22%3A%22zh%22%2C%22country%22%3A%22CN%22%2C%22serviceProvider%22%3A%22WIFI%22%2C%22ip%22%3A%22127.0.0.1%22%2C%22triggerId%22%3A%22yED6Fvi2JLdH2pmx%22%7D%2C%22mediaType%22%3A%22GAME%22%2C%22contextData%22%3A%7B%22data%22%3A%7B%22debugv3%22%3A%22on%22%7D%7D%2C%22impRequests%22%3A%5B%7B%22tagId%22%3A%221.12.4.1%22%2C%22adsCount%22%3A1%2C%22context%22%3A%7B%7D%7D%5D%7D&v=3.0&appSecret=7f1526fb86c71db34b576d96e2e7d940

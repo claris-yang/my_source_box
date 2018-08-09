@@ -1,0 +1,3 @@
+
+#/bin/sh
+curl -D 'clientInfo={"context":{"debug":"on"},"deviceInfo":{"make":"Xiaomi","os":"android","isInter":false,"model":"MI 5C","device":"meri","androidVersion":"7.1.2","miuiVersion":"8.5.22","category":"phone"},"userInfo":{"androidId":"b8db4ddc0dae9ff6","imei":"8a333f7d0fdf5a631e1da805ec5422b8","networkType":-1,"connectionType":"WIFI","locale":"zh_CN","country":"CN","ip":"192.168.31.156","mac":"02:00:00:00:00:00"},"appInfo":{"packageName":"com.xiaomi.gamecenter","version":85011950},"impRequests":[{"tagId":"1.12.4.1","adsCount":3,"width":480,"height":320}]}&tagList=[{\"tagId\":\"2018062200000012\", \"adCount\":2, \"pageCtx\":[\"home_01\",\"home_02\"]}, {\"tagId\":\"123\",\"adCount\":3}]"'  "http://10.105.45.42/ad/getAds"

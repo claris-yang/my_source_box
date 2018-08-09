@@ -1,0 +1,3 @@
+/home/yangtao/priv/cplus/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/yangtao/priv/cplus/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/yangtao/priv/cplus/cmake-build-debug/CMakeFiles/cplusplus.dir
