@@ -18,6 +18,6 @@ func main() {
 		fmt.Printf("%v\n", y[len(y) - 2:] )
 	}
 
-	fmt.Printf("%v", time.Now().Unix())
+	fmt.Printf("%v", time.Now().UnixNano()/1e6)
 }
 

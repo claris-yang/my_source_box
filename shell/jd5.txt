@@ -1,5 +1,1 @@
-ad_group_id: 120341906, serial_num: 1533365669764990, operate_type: Add, status: 1, zn_price: 100000, zw_price: 1000000, mobile_price_coef: 1.0
-ad_group_id: 115071441, serial_num: 1533365674710394, operate_type: Delete
 ad_group_id: 120341761, serial_num: 1533365674881209, operate_type: Add, status: 1, zn_price: 1000000, zw_price: 1000000, mobile_price_coef: 1.0
-ad_group_id: 1281315, serial_num: 1533365676771879, operate_type: Delete
-ad_group_id: 1483510, serial_num: 1533365676796670, operate_type: Delete
